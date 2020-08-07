@@ -1,2 +1,1 @@
-# APPLE_CLOVER_EFI
-本人自己亲测的一些可用黑苹果EFI
+本人业余收集的一些黑苹果EFI，以OC引导为主
